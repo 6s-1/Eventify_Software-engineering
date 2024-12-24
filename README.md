@@ -1,4 +1,8 @@
-# Running Eventify Web App
+# Eventify Web Application
+
+Eventify is a web application designed to streamline the process of managing and organizing events. It allows users to create, view, and manage events efficiently, providing a seamless user experience. The app includes both a frontend interface and a backend server integrated with a MySQL database for data storage and management.
+
+## Running Eventify Web App
 
 To run the Eventify web application on your machine, follow these steps:
 
